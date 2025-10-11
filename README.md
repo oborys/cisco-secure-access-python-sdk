@@ -1,14 +1,4 @@
-# devnet-template
-This provides a template repository for creating or importing repos in the CiscoDevNet organization on GitHub.com. 
+# Cisco Cloud Security Development Samples
 
-Please use this template as a guide to creating a repo that encourages contributions and shows thoughtful maintenance strategies.  
-
-The `CODE_OF_CONDUCT.md` reflects our standards for interaction. 
-
-The `CONTRIBUTING.md` file instructs new contributors on how to communicate with the project maintainers, report issues, provide pull requests, reviewing contributions, and how to version control releases.
-
-The `LICENSE` file should contain the license you intend for the source code in the repo. 
-
-The `SECURITY.md` file describes security policies and procedures including reporting a security-related bug and the policy on disclosure. 
-
-The `AGENTS.md` file contains a template for guiding AI agents that work with your repository.
+## Introduction and Terms of Service
+The following include examples and samples that can help you when interacting or building integrations with Cisco Secure Access. These samples, scripts, collections and guides are supplied to customers as examples which customers are free to use or modify for use with your existing subscriptions under the terms of the [attached license](https://github.com/CiscoDevNet/cloud-security-early-adoption/blob/master/LICENSE) and the [Cisco DevNet Terms Of Service](https://developer.cisco.com/site/license/terms-and-conditions/).
