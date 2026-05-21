@@ -24,7 +24,7 @@ pip install secureaccess
 ### From source
 
 ```sh
-git clone https://github.com/oborys/cisco-secure-access-python-sdk.git
+git clone https://github.com/CiscoDevNet/cisco-secure-access-python-sdk.git
 cd cisco-secure-access-python-sdk
 pip install .
 ```
